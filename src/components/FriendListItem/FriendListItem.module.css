@@ -1,0 +1,21 @@
+.text {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.isActive {
+    color: green;
+}
+
+.isRetired {
+    color: red;
+}
+img{
+            display: block;
+            max-width: 100%;
+            height: auto;
+            margin: 10px auto;
+}

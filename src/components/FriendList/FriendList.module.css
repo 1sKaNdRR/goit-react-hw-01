@@ -1,0 +1,21 @@
+.container {
+    display: flex;
+    gap: 20px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.frendItem {
+    border: 2px solid black;
+    border-radius: 4px;
+    width: 140px;
+padding-bottom: 10px;
+}
+.friendContainer{
+    display: flex;
+        justify-content: center;
+        margin-top: 20px;
+        width: 100%;
+    }
